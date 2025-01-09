@@ -1,0 +1,33 @@
+*{
+    font-family: Helvetica;
+}
+
+h1{
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(1.jpeg);
+}
+
+.titles{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.price{
+    font-weight: bold;
+    color: blue;
+}
+
+#brushesTitle{
+    background-color: mediumaquamarine;
+}
+
+#framesTitle{
+    background-color: lightcoral;
+}
+
+#paintTitle{
+    background-color: skyblue;
+}
